@@ -21,3 +21,5 @@ To complete this project, the data used was provided by Motivate, a bike share s
 * Programming for Data Science with Python Nanodegree Program - [Udacity](https://www.udacity.com/course/programming-for-data-science-nanodegree--nd104) :metal::smile:
 
 * Markdown guidance - [Github](https://guides.github.com/features/mastering-markdown/)
+
+* Python guidance - [The Python Standard Library](https://docs.python.org/3/library/index.html)
