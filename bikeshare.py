@@ -283,6 +283,8 @@ def main():
         restart = input('\nWould you like to restart? Enter yes or no.\n')
         if restart.lower() != 'yes':
             break
+        else:
+            print('\nThank you for using the US Bikeshare Data tool! We hope to see you back soon!.')
 
 
 if __name__ == "__main__":
